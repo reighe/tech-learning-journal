@@ -28,3 +28,12 @@ I'm learning GitHub, Python, and open source one step at a time.
 ---
 
 > "Small progress is still progress."
+
+
+## What I learned today
+
+- GitHub repositories are like project folders.
+- A commit saves changes.
+- A fork creates my own copy of a project.
+- Issues are tasks or discussions in a repository.
+- Consistency beats perfection.
