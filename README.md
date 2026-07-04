@@ -37,3 +37,14 @@ I'm learning GitHub, Python, and open source one step at a time.
 - A fork creates my own copy of a project.
 - Issues are tasks or discussions in a repository.
 - Consistency beats perfection.
+
+## Current Focus
+
+- 📚 Learning GitHub
+- ✍️ Learning Markdown
+- 🐍 Preparing to learn Python
+- 🎯 Preparing for Outreachy
+
+## Quote of the Week
+
+> Kukazana tu.
